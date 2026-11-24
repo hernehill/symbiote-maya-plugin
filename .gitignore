@@ -1,0 +1,11 @@
+# IDEs
+.vscode
+.idea
+.claude
+
+# Python
+*.pyc
+__pycache__
+
+# REZ
+_rez_build
